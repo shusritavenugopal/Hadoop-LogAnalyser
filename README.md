@@ -1,5 +1,7 @@
 # Cloud Computing Project - Hadoop LogAnalyser
 
+<img width="833" alt="Screenshot 2024-06-28 at 2 37 21 PM" src="https://github.com/shusritavenugopal/Hadoop-LogAnalyser/assets/63789652/3e3d755d-1504-4208-ab61-c1e05d2e5a2f">
+
 ## Overview:
 This project explores setting up Hadoop in Docker, developing MapReduce programs for log analysis, and solving specific problems using Hadoop clusters. The report includes detailed configurations, scripts, and solutions for various tasks.
 
